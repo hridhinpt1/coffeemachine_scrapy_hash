@@ -1,0 +1,1 @@
+# coffeemachine_scrapy_hash
